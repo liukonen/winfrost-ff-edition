@@ -261,3 +261,5 @@ __pycache__/
 *.pyc
 
 */Firefox/*.dll
+*/Firefox/*.exe
+*/Firefox/*.ja
